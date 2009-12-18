@@ -14,7 +14,7 @@ static string HTTPPost(string sUrl, string sRequest)
 }
  
 static void Main_Encoding(string origin, string destination)
-{
+{  
     string xml, sUrl, sRequest, result, userID, userKey;
 
     //put your real userID and userKey below
